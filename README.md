@@ -1,6 +1,8 @@
 # BounceBallsCollide
 The program is designed to create multiple balls that are entered by the user. The balls bounce off the frame and collide off each other. 
 
+This is similar to the previous BouncingBalls project, using a lot of the same code base, with the exeption that the balls now collide with one another. 
+
 
 1.	Create Ball class with variables for the position, size and colour and velocity of the ball.
 2.	Create method for moving the ball, this works off a random boolean which determines the direction, to ensure a random starting direction.
